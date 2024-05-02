@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ihlab/catkin_ws_car/install_isolated/setup.sh
